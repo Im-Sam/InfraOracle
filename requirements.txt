@@ -1,0 +1,14 @@
+torch
+pandas
+numpy
+scikit-learn
+plotly
+dash
+dash-bootstrap-components
+matplotlib
+joblib
+requests
+python-dotenv
+tqdm
+uvicorn
+fastapi
